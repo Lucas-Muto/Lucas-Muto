@@ -1,5 +1,7 @@
 ### Hello World, I'm Lucas  👋
 
+<br />
+<br />
  <img align="right" alt="GIF" src="./coder.gif" width="500" height="320" />
 
 
