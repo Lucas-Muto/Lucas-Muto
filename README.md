@@ -1,12 +1,12 @@
 ### Hello World, I'm Lucas  👋
 
- <img align="right" alt="GIF" src="./coder.gif" width="500" height="320" margin-top="100px"/>
+ <img align="right" alt="GIF" src="./coder.gif" width="500" height="320" />
 
 
 ## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🤖 I'm currently building AI-powered applications and exploring Machine Learning innovations
-- 🌱 I'm diving deep into React Native, Automations with Python and AI-driven development
+- 🌱 I'm diving deep into React Native, Automations with Python AI-driven development
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
