@@ -1,6 +1,6 @@
 ### Hello World, I'm Lucas  👋
 
- <img align="right" alt="GIF" src="./coder.gif" width="500" height="320" style="margin-top: 30px" />
+ <img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
 
 
 ## I'm a Developer, Creator, and Mentor!!
