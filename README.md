@@ -10,7 +10,7 @@
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 4 languages ( Portuguese, English, Spanish, French)
+- ⚡ Fun fact: I speak 3 languages ( Portuguese, English, Spanish)
 
 
 ### Talk with me, I am kinda awesome:
