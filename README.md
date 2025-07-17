@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [[portfolio](https://www.lucasmuto.com)]
 - 🤖 I'm currently building AI-powered applications and exploring Machine Learning innovations
 - 🌱 I'm diving deep into React Native, Automations with Python and AI-driven development
 - 👯 I'm looking to collaborate on open source projects
