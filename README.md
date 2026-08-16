@@ -3,15 +3,7 @@
  <img align="right" alt="GIF" src="./coder.gif" width="400" height="320" />
 
 
-## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [[portfolio](https://www.lucasmuto.com)]
-- 🤖 I'm currently building AI-powered applications and exploring Machine Learning innovations
-- 🌱 I'm diving deep into React Native, Automations with Python and AI-driven development
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Portuguese, Spanish)
-
+## I'm a Developer, Creator, and Mentor.
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
